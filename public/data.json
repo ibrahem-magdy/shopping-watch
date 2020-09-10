@@ -1,0 +1,102 @@
+{
+    "one":[
+        {
+            "img":"../../img/gallery/new_product1.png",
+            "name":"Thermo Ball Etip Gloves",
+            "price":"$ 45,743"
+        },
+        {
+            "img":"../../img/gallery/new_product2.png",
+            "name":"Thermo Ball Etip Gloves",
+            "price":"$ 45,743"
+        },
+        {
+            "img":"../../img/gallery/new_product3.png",
+            "name":"Thermo Ball Etip Gloves",
+            "price":"$ 45,743"
+        }
+    ],
+    "two":[
+        {
+            "image":"../../img/gallery/popular1.png",
+            "name":"Thermo Ball Etip Gloves",
+            "price":"$ 45,743"
+        },
+        {
+            "image":"../../img/gallery/popular2.png",
+            "name":"Thermo Ball Etip Gloves",
+            "price":"$ 45,743"
+        },
+        {
+            "image":"../../img/gallery/popular3.png",
+            "name":"Thermo Ball Etip Gloves",
+            "price":"$ 45,743"
+        },
+        {
+            "image":"../../img/gallery/popular4.png",
+            "name":"Thermo Ball Etip Gloves",
+            "price":"$ 45,743"
+        },
+        {
+            "image":"../../img/gallery/popular5.png",
+            "name":"Thermo Ball Etip Gloves",
+            "price":"$ 45,743"
+        },
+        {
+            "image":"../../img/gallery/popular6.png",
+            "name":"Thermo Ball Etip Gloves",
+            "price":"$ 45,743"
+        }
+    ],
+    "three":[
+        {
+            "icon":"fas fa-box-open",
+            "h3":"Free Shipping Method",
+            "p":"aorem ixpsacdolor sit ameasecur adipisicing elitsf edasd."
+        },
+        {
+            "icon":"fas fa-unlock",
+            "h3":"Secure Payment System",
+            "p":"aorem ixpsacdolor sit ameasecur adipisicing elitsf edasd."
+        },
+        {
+            "icon":"fa fa-sync-alt",
+            "h3":"Secure Payment System",
+            "p":"aorem ixpsacdolor sit ameasecur adipisicing elitsf edasd."
+        }
+    ],
+    "four":[
+        {
+                "h3":"Quick Links",
+                "lone":"About",
+                "ltwo":"Offers & Discounts",
+                "lthree":"Get Coupon",
+                "lfour":"Contact Us"
+            
+        },
+        {
+            "h3":"New Products",
+            "lone":"Woman Cloth",
+            "ltwo":"Fashion Accessories",
+            "lthree":"Man Accessories",
+            "lfour":"Rubber made Toys"
+        },
+        {
+            "h3":"Support",
+            "lone":"Frequently Asked Questions",
+            "ltwo":"Terms & Conditions",
+            "lthree":"Privacy Policy",
+            "lfour":"Report a Payment Issue"
+        }
+    ],
+
+    "icons":[
+        {"ione":"fab fa-twitter"},
+        {"ione":"fab fa-facebook-f"},
+        {"ione":"fab fa-behance"},
+        {"ione":"fas fa-globe"}
+    ]
+    
+
+    
+}

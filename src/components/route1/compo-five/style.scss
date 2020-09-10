@@ -1,0 +1,105 @@
+.section-five{
+    height:700px;
+    position: relative;
+    background-image:url("../../../img/gallery/sectin_bg1.png");
+    background-size:cover;
+    &:hover{
+        .cover{
+            opacity: 1;
+        }
+        .con-i{
+           width: 100px;
+           height:100px;
+           i{
+               font-size:45px
+           }
+}
+    }
+    .cover{
+        width:100%;
+        height:100%;
+        top:0;
+        display:flex;
+        justify-content:center;
+        align-items:center;
+        background:rgba(0,0,0,0.6);
+        opacity: 0;
+        transition:.3s;
+        -webkit-transition:.3s;
+        -moz-transition:.3s;
+        -ms-transition:.3s;
+        -o-transition:.3s;
+  
+
+    }
+    .con-i
+    {
+        position: absolute;
+        top:50%;
+        left:50%;
+        transform:translate(-50%,-50%);
+        -webkit-transform:translate(-50%,-50%);
+        -moz-transform:translate(-50%,-50%);
+        -ms-transform:translate(-50%,-50%);
+        -o-transform:translate(-50%,-50%);
+        width:90px;
+        height:90px;
+        display:flex;
+        justify-content:center;
+        align-items:center;
+        border-radius:50%;
+        -webkit-border-radius:50%;
+        -moz-border-radius:50%;
+        -ms-border-radius:50%;
+        -o-border-radius:50%;
+        transition:.3s;
+        -webkit-transition:.3s;
+        -moz-transition:.3s;
+        -ms-transition:.3s;
+        -o-transition:.3s;
+        border:1px solid white;
+        cursor: pointer;
+        &:hover{
+            background-color:white;
+            i{
+                color:red;
+            }
+        }
+        i
+  
+        {
+            font-size:40px;
+            color:white;
+            transition:.3s;
+            -webkit-transition:.3s;
+            -moz-transition:.3s;
+            -ms-transition:.3s;
+            -o-transition:.3s;
+        }
+}
+.bottom-left{
+    position:absolute;
+    left:0;
+    bottom:0;
+    width:30%;
+    height:160px;
+    background:url("../../../img/gallery/vidoe_more.png");
+    background-size:cover;
+    background-position:center;
+    padding:50px;
+    .con-p-i{
+        display:flex;
+        justify-content:space-between;
+        i{
+            color:white;
+            width:30px;
+        }
+        p{
+            color:white;
+            font-weight:bold
+        }
+
+    }
+}
+
+}

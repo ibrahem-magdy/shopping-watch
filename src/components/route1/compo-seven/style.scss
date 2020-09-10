@@ -1,0 +1,24 @@
+.section-seven{
+    height:initial;
+    padding-top:50px;
+    padding-bottom:50px;
+    .con-i-h3-p{
+        background:#ea0000;
+        padding:50px;
+        color:white;
+        i{
+            font-size:35px;
+            margin-bottom:20px;
+        }
+        h3{
+            font-size:22px;
+            font-weight:bold;
+            margin-bottom:20px;
+        }
+        p{
+            color:#d3d1d1;
+            line-height:30px;
+            letter-spacing:1px;
+        }
+    }
+}

@@ -1,0 +1,407 @@
+
+@media only screen and (min-width:320px) and (max-width:480px){
+//navbar
+.nav .ul-nav,.search .con-search{
+    display:none;
+    overflow:hidden;
+}
+.nav .menu{
+    display:flex;
+}
+//rout1
+//section one
+.section-one{
+    padding-bottom:50px;
+}
+.section-one .cent+div{
+display:none;
+}
+.section-one .right-header{
+    display:flex;
+}
+.section-one .cent{
+    padding:20px;
+}
+.section-one .cent .con-h2-p h2{
+    font-size:33px;
+}
+.section-one .cent .con-h2-p p{
+    margin-bottom:20px;
+    padding-right:0;
+}
+//section-two
+.section-two{
+    padding-top:50px;
+    padding-bottom:50px;
+}
+.section-two h2{
+    font-size:28px;
+}
+.section-two h3{
+    font-size:21px;
+}
+//start section three
+.section-three .mar-bottom{
+    margin-bottom:15px;
+}
+//start section four
+.section-four h2{
+    font-size:34px;
+}
+.section-four p{
+    width:initial;
+}
+.section-four figure h3 a{
+    font-size:20px
+}
+//start section five
+.section-five{
+    height:400px;
+}
+.section-five .bottom-left{
+    width:65%;
+    height:70px;
+    padding:26px;
+}
+//start section six
+.section-six{
+    padding: 50px 0 50px 0;
+}
+.section-six .con-p-h3{
+    padding:0 15px 0 15px;
+}
+.section-six .con-p-h3 h3{
+    font-size:26px;
+    margin-bottom:15px;
+}
+.section-six .con-p-h3 button{
+    margin-bottom:40px;
+}
+.section-six .mr-bottom{
+    margin-bottom:40px;
+}
+//start section seven
+.section-seven{
+    .row{
+        margin:initial
+    }
+}
+.section-seven .con-i-h3-p{
+    padding:33px;
+}
+//start section eight
+.section-eight .con-links{
+    padding-right:15px;
+    padding-left:15px;
+}
+.section-eight .copy-social{
+    display:initial;
+}
+}
+
+
+@media only screen and (max-width: 599px) and (min-width: 481px) {
+//navbar
+.nav .ul-nav,.search .con-search{
+    display:none;
+    overflow:hidden;
+}
+.nav .menu{
+    display:flex;
+}
+//rout1
+//section one
+.section-one{
+    padding-bottom:50px;
+}
+.section-one .cent+div{
+display:none;
+}
+.section-one .right-header{
+    display:flex;
+}
+.section-one .cent{
+    padding:20px;
+}
+.section-one .cent .con-h2-p h2{
+    font-size:33px;
+}
+.section-one .cent .con-h2-p p{
+    margin-bottom:20px;
+    padding-right:0;
+}
+//section-two
+.section-two{
+    padding-top:50px;
+    padding-bottom:50px;
+}
+.section-two h2{
+    font-size:28px;
+}
+.section-two h3{
+    font-size:21px;
+}
+//start section three
+.section-three .mar-bottom{
+    margin-bottom:15px;
+}
+//start section four
+.section-four h2{
+    font-size:34px;
+}
+.section-four p{
+    width:initial;
+}
+.section-four figure h3 a{
+    font-size:20px
+}
+//start section five
+.section-five{
+    height:400px;
+}
+.section-five .bottom-left{
+    width:65%;
+    height:70px;
+    padding:26px;
+}
+//start section six
+.section-six{
+    padding: 50px 0 50px 0;
+}
+.section-six .con-p-h3{
+    padding:0 15px 0 15px;
+}
+.section-six .con-p-h3 h3{
+    font-size:26px;
+    margin-bottom:15px;
+}
+.section-six .con-p-h3 button{
+    margin-bottom:40px;
+}
+.section-six .mr-bottom{
+    margin-bottom:40px;
+}
+//start section seven
+.section-seven{
+    .row{
+        margin:initial
+    }
+}
+.section-seven .con-i-h3-p{
+    padding:33px;
+}
+//start section eight
+.section-eight .con-links{
+    padding-right:15px;
+    padding-left:15px;
+}
+.section-eight .copy-social{
+    display:initial;
+}
+}
+
+
+@media only screen and (max-width: 767px) and (min-width: 600px) {
+//navbar
+.nav .ul-nav{
+    display:none;
+    overflow:hidden;
+}
+.nav .menu{
+    display:flex;
+}
+// //rout1
+// //section one
+
+.section-one .cent+div{
+width:50%;
+}
+.section-one .right-header{
+    display:none;
+}
+.section-one .cent{
+    padding:0px;
+}
+.section-one .cent .con-h2-p h2{
+    font-size:27px;
+}
+.section-one .cent .con-h2-p p{
+    margin-bottom:20px;
+    padding-right:0;
+}
+//section-two
+.section-two{
+    padding-top:50px;
+    padding-bottom:50px;
+}
+.section-two h2{
+    font-size:28px;
+}
+.section-two h3{
+    font-size:21px;
+}
+//start section three
+.section-three .mar-bottom{
+    margin-bottom:15px;
+}
+
+//start section four
+.section-four h2{
+    font-size:34px;
+}
+.section-four p{
+    width:initial;
+}
+.section-four figure h3 a{
+    font-size:20px
+}
+
+//start section five
+.section-five{
+    height:400px;
+}
+.section-five .bottom-left{
+    width:65%;
+    height:70px;
+    padding:26px;
+}
+//start section six
+.section-six{
+    padding: 50px 0 50px 0;
+}
+.section-six .con-p-h3{
+    padding:0 15px 0 15px;
+}
+.section-six .con-p-h3 h3{
+    font-size:26px;
+    margin-bottom:15px;
+}
+.section-six .con-p-h3 button{
+    margin-bottom:40px;
+}
+.section-six .mr-bottom{
+    margin-bottom:40px;
+}
+//start section seven
+.section-seven{
+    .row{
+        margin:initial
+    }
+}
+.section-seven .con-i-h3-p{
+    padding:33px;
+}
+//start section eight
+.section-eight .con-links{
+    padding-right:15px;
+    padding-left:15px;
+}
+.section-eight .copy-social{
+    display:initial;
+}
+
+}
+
+
+@media only screen and (max-width: 991px) and (min-width: 768px) {
+//navbar
+.nav .ul-nav{
+    display:none;
+    overflow:hidden;
+}
+.nav .menu{
+    display:flex;
+}
+// //rout1
+// //section one
+
+.section-one .cent+div{
+width:50%;
+}
+.section-one .right-header{
+    display:none;
+}
+.section-one .cent{
+    padding:0px;
+}
+.section-one .cent .con-h2-p h2{
+    font-size:27px;
+}
+.section-one .cent .con-h2-p p{
+    margin-bottom:20px;
+    padding-right:0;
+}
+//section-two
+.section-two{
+    padding-top:50px;
+    padding-bottom:50px;
+}
+.section-two h2{
+    font-size:28px;
+}
+.section-two h3{
+    font-size:21px;
+}
+//start section three
+.section-three .mar-bottom{
+    margin-bottom:15px;
+}
+
+//start section four
+.section-four h2{
+    font-size:34px;
+}
+.section-four p{
+    width:initial;
+}
+.section-four figure h3 a{
+    font-size:20px
+}
+
+//start section five
+.section-five{
+    height:400px;
+}
+.section-five .bottom-left{
+    width:65%;
+    height:70px;
+    padding:26px;
+}
+//start section six
+.section-six{
+    padding: 50px 0 50px 0;
+}
+.section-six .con-p-h3{
+    padding:0 15px 0 15px;
+}
+.section-six .con-p-h3 h3{
+    font-size:26px;
+    margin-bottom:15px;
+}
+.section-six .con-p-h3 button{
+    margin-bottom:40px;
+}
+.section-six .mr-bottom{
+    margin-bottom:40px;
+}
+//start section seven
+.section-seven{
+    .row{
+        margin:initial
+    }
+}
+.section-seven .con-i-h3-p{
+    padding:33px;
+}
+//start section eight
+.section-eight .con-links{
+    padding-right:15px;
+    padding-left:15px;
+}
+.section-eight .copy-social{
+    display:initial;
+}
+}
+
+@media only screen and (min-width: 992px) and (max-width:1199px)  {
+}
